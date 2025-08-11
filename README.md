@@ -1,7 +1,7 @@
 
 <div background-color="red">
-<h1 align="center">Hi 👋, I'm S S Anik</h1>
-<h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm RT RAHI</h1>
+<h3 align="center">A am CEO of Digita Idea, From Bangladesh</h3>
 
  <img width="1640" height="924" alt="Black   Yellow Digital Marketing Facebook Cover" src="https://github.com/user-attachments/assets/ff8a5599-39b7-4494-bfbd-3991aca4da23" />
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ssanik056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
+<a href="https://twitter.com/ssa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SSAnik7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anik-543578231" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071705527794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="S S Anik" height="30" width="40" /></a>
 <a href="https://instagram.com/proxiloweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="proxiloweb" height="30" width="40" /></a>

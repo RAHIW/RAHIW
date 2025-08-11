@@ -20,10 +20,10 @@
 <a href="https://pinterest.com/ssanik09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="ssanik09" height="30" width="40" /></a>
 </p>
 <p align="left">
- <h3>Visit & Subscribe My Youtube Channel -</h3>
+ <h3>Visit & Follow My  FACBOOK PAGE -</h3>
  </p>
+<img width="848" height="409" alt="Screenshot_2025-08-11_10-36-13" src="https://github.com/user-attachments/assets/97225fa7-fd13-4ee6-b4ab-36d3aa314fe5" />
 
-![Screenshot 2024-05-14 111804](https://github.com/Anik-18/Anik-18/assets/121821746/82b84879-b660-47e6-9df6-0661538e4cd1)
 
 
 

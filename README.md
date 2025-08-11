@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm S S Anik</h1>
 <h3 align="center">A Passionate Full Stack Developer From Bangladesh</h3>
 
- 
-![LinkedIn cover](https://github.com/user-attachments/assets/f0bdd788-8d87-482c-a169-a2d6ddf47f99)
+ <img width="1640" height="924" alt="Black   Yellow Digital Marketing Facebook Cover" src="https://github.com/user-attachments/assets/ff8a5599-39b7-4494-bfbd-3991aca4da23" />
+
 
 
 
